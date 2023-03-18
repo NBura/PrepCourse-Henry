@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es el prime repositorio de prepcourse henry
+Esta es una prueba de como ccrear un repositorio y clonarlo desde github en el escritorio de mi pc
